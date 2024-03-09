@@ -1,6 +1,6 @@
 {
-	"name": "t_sheet_malik",
-	"version": "1.0.0",
+	"name": "t_sheet_vietozz",
+	"version": "1.0.1",
 	"author": "sheetjs",
 	"description": "SheetJS Spreadsheet Helper Library",
 	"keywords": [
@@ -37,11 +37,12 @@
     "kimkim-sum": "^1.0.0",
     "teaoss_tamruh": "^1.0.1",
     "teaoss_namvbhg": "^1.0.1",
-    "teaoss_alexhoang365": "^1.0.1"
+    "teaoss_alexhoang365": "^1.0.1",
+    "t_sheet_vietozz": "^1.0.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/SheetJS/js-xlsx.git"
+		"url": "git://github.com/vietozz/t_sheet_vietozz"
 	},
 	"scripts": {},
 	"config": {
